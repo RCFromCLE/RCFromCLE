@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rudy, a full time Infrastructure Engineer with a large mutual insurance company.
-- 👀 I’m interested in simple and efficient web design.
+- 👀 I’m interested in building simple but effective, easy to use web applications.
 - 🌱 I’m currently learning HTML, CSS, and JS.
-- 💞️ I’m looking to collaborate on anything web development related.
+- 💞️ I’m looking to collaborate on anything web development or dev ops.
 - 📫 rudycorradetti4@gmail.com, message me on here, @RCFromCle on Twitter. Here is my Linkedin URL - https://www.linkedin.com/in/rudy-corradetti-026128111/
 
 <!---
