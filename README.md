@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rudy, a full time Windows Infrastructure Engineer with a medium sized mutual insurance company.
+- 👋 Hi, I’m Rudy, a full time Infrastructure Engineer with a medium sized mutual insurance company.
 - 👀 I’m interested in simple and efficient web design.
 - 🌱 I’m currently learning HTML, CSS, and JS.
 - 💞️ I’m looking to collaborate on anything web development related.
