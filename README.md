@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rudy, a full time Infrastructure Engineer with a large mutual insurance company.
+- 👋 Hi, I’m Rudy, a full time Infrastructure/Dev Ops Engineer with a large mutual insurance company.
 - 👀 I’m interested in building simple but effective, easy to use web applications.
 - 🌱 I’m currently learning HTML, CSS, and JS.
 - 💞️ I’m looking to collaborate on anything web development or dev ops.
