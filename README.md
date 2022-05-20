@@ -35,8 +35,10 @@ My core competencies include:
 When I am not working on a project at work or in my home lab, I enjoy spending time with my fiance, mountain biking, hiking, playing (or watching) basketball, video games, and finding new places to eat.
 
 
+
 “I have no special talents. I am only passionately curious.”
 ― Eric Schmidt
+
 
 
 📫 rudycorradetti4@gmail.com
