@@ -1,5 +1,5 @@
 
-Hello, I'm Rudy - 
+- 👋 Hi, I'm Rudy - 
 
 Experienced Infrastructure Engineer with a strong background in messaging, identity management, SSO, CI/CD and PowerShell automation.
 
@@ -37,4 +37,6 @@ When I am not working on a project at work or in my home lab, I enjoy spending t
 “I have no special talents. I am only passionately curious.”
 ― Eric Schmidt
 
-📫 rudycorradetti4@gmail.com, message me on here, @RCFromCle on Twitter. Here is my Linkedin URL - www.linkedin.com/in/rcfromcle
+📫 rudycorradetti4@gmail.com
+   @RCFromCle
+   www.linkedin.com/in/rcfromcle
