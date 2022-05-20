@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Rudy - 
+👋 Hi, I'm Rudy
 
 Experienced Infrastructure Engineer with a strong background in messaging, identity management, SSO, CI/CD and PowerShell automation.
 
