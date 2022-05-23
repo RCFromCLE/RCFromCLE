@@ -39,7 +39,7 @@ When I am not working on a project at work or in my home lab, I enjoy spending t
 “I have no special talents. I am only passionately curious.”
 ― Eric Schmidt
 
-
+#Contact Info - 
 
 - 📫 rudycorradetti4@gmail.com
 - :bird: [@RCFromCle](https://twitter.com/RCFromCle) 
