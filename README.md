@@ -17,6 +17,7 @@ My core competencies include:
 - ADFS
 - PowerShell
 - CMD
+- Bash
 - Vsphere
 - Concourse
 - VSCode
