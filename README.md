@@ -13,4 +13,4 @@ When I am not working on a project at work or in my home lab, I enjoy spending t
 - 📫 rudycorradetti4@gmail.com
 - :bird: [@RCFromCle](https://twitter.com/RCFromCle) 
 - :link: www.linkedin.com/in/rcfromcle
-- 🧵 [My blog - rudycorradetti.com] (https://rudycorradetti.com)
+- 🧵 [My blog - rudycorradetti.com](https://rudycorradetti.com)
