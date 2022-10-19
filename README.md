@@ -25,7 +25,6 @@ I present to you a semi-accurate list of technologies I have worked on professio
 - IIS
 - Apache
 - Web Sphere
-- CI/CD
 - SCCM
 - Helm
 - YAML
