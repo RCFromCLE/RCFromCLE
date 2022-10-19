@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Rudy
+👋 Hi, I'm Rudy.
 
 I'm an experienced Azure engineer with a background in systems administration, IaC, automation, and cloud engineering.
 
