@@ -8,6 +8,7 @@ I present to you a semi-accurate list of technologies I have worked on professio
 - Terraform
 - Ansible
 - Microsoft 365 - (Exchange and ADDS)
+- Active Directory
 - Azure
 - Azure Dev Ops
 - PowerShell
