@@ -1,7 +1,7 @@
 
 👋 Hi, I'm Rudy
 
-I'm an experienced Azure Engineer with a strong background in systems administration, IaC, automation, and cloud engineering.
+I'm an experienced Azure engineer with a background in systems administration, IaC, automation, and cloud engineering.
 
 When I am not working on a project at work or in my home lab, I enjoy spending time with my fiance, mountain biking, hiking, playing (or watching) basketball, video games, and finding new places to eat.
 
