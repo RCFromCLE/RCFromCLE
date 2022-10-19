@@ -10,6 +10,7 @@ When I am not working on a project at work or in my home lab, I enjoy spending t
 
 # Contact Info - 
 
-- 📫 https://rudycorradetti.com
+- 📫 rudycorradetti4@gmail.com
 - :bird: [@RCFromCle](https://twitter.com/RCFromCle) 
 - :link: www.linkedin.com/in/rcfromcle
+- 🧵 My blog - rudycorradetti.com (hhttps://rudycorradetti.com)
