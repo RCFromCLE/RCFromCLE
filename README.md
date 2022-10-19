@@ -3,29 +3,28 @@
 
 I'm an experienced Azure engineer with a background in systems administration, IaC, automation, and cloud engineering.
 
-My core competencies include:
+I present to you a semi-accurate list of technologies I have worked on professionally. The order has no significance.
 
-- Windows Server
 - Terraform
-- Microsoft 365
+- Ansible
+- Microsoft 365 - (Exchange and ADDS)
 - Azure
 - Azure Dev Ops
 - PowerShell
 - CMD
 - Bash
+- Hyper-V
 - Vsphere
 - K8s
-- Containerization
 - Docker
 - Concourse
-- VSCode
-- Azure Active Directory Connect
-- Team Foundation Server (TFS)
-- Git
-- Tanzu Kubernetes Grid Integrated (TKGI)
-- Jira
 - Splunk
+- Azure Log Analytics
+- Grafana
+- Prometheus
 - IIS
+- Apache
+- Web Sphere
 - CI/CD
 - SCCM
 - Helm
