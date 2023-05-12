@@ -6,7 +6,9 @@ I'm an experienced Azure engineer with a background in systems administration, I
 I present to you a semi-accurate list of technologies I have worked on professionally. The order has no significance.
 
 - Terraform
-- Ansible
+- Python
+- Terraform Cloud
+- Azure Landing Zones
 - Microsoft 365 - (Exchange and ADDS)
 - Active Directory
 - Azure
