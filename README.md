@@ -1,7 +1,7 @@
 
 👋 Hi, I'm Rudy.
 
-I'm an experienced software engineer with a background in systems administration, Infrastructure as Code, automation, and cloud engineering.
+I'm an experienced engineer with a background in systems administration, Infrastructure as Code, automation, and cloud engineering.
 
 I present to you a semi-accurate list of technologies I have worked on professionally. The order has no significance.
 
