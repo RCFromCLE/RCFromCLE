@@ -31,6 +31,11 @@ I present to you a semi-accurate list of technologies I have worked on professio
 - SCCM
 - Helm
 - YAML
+- Javascript
+- NodeJS
+- TailWind
+- React
+- Anthropic and OpenAI APIs
 
 When I am not working on a project at work or in my home lab, I enjoy spending time with my family, mountain biking, hiking, playing (or watching) basketball or Juijitsu, video games, and finding new places to eat.
 
