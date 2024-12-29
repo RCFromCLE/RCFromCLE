@@ -6,7 +6,6 @@ I'm an experienced engineer with a background in systems administration, Infrast
 I present to you a semi-accurate list of technologies I have worked on professionally. The order has no significance.
 
 - Terraform
-- Javascript
 - Python
 - Terraform Cloud
 - Azure Landing Zones
